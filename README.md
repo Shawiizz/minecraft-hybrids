@@ -50,8 +50,8 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
 
 ### ☕️ LoliServer
   - Version: 1.16.5
-  - Author: Kotori0629
-  - Fork: Forge/Spigot/Paper --> Mohist --> CatServer
+  - Author: Kotori0629 / Luohuayu
+  - Fork: Forge/Spigot/Paper --> Mohist --> LoliServer
   - Description: Fork of Mohist that allow the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
   - Link: https://github.com/Loli-Server/LoliServer
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
