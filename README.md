@@ -47,7 +47,6 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
 
-
 ### ☕️ LoliServer
   - Version: 1.16.5
   - Author: Kotori0629 / Luohuayu
@@ -56,15 +55,6 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Link: https://github.com/Loli-Server/LoliServer
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
-
-### 🧽 SpongeForge
-  - Version: 1.10.2-1.12.2
-  - Author: SpongePowered
-  - Fork: -
-  - Description: Forge Mod that allows the use of Sponge Plugins
-  - Link: https://www.spongepowered.org/downloads/spongeforge/
-  - Plugins: ✔️ (Sponge)
-  - Mods: ✔️ (Forge)
 
 ### 🧻 Cardboard (Bukkit for Fabric)
   - Version: 1.16.4-1.18.1
@@ -110,3 +100,33 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Link: -
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
+
+# Recommended softwares
+This list classifies the software in relation to their compatibility.
+
+## 1.7.10
+1. CrucibleMC
+2. Thermos
+3. Mohist
+4. UraniumMC
+
+## 1.12.2
+1. Mohist
+2. Magma
+3. CatServer
+
+## 1.14
+1. Arclight
+
+## 1.15
+1. Arclight
+
+## 1.16.5
+1. Arclight
+2. Mohist
+3. Magma
+4. Mist
+5. LoliServer
+
+## 1.18.2
+1. -
