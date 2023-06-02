@@ -3,7 +3,7 @@
 This page is based on [this one](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md), made by UeberallGebannt.
 
 ### 🪐 Mohist
-  - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2 (experimental)
+  - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2, 1.19.4 (experimental)
   - Author: MohistMC
   - Fork: Forge/Spigot/Paper --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -12,7 +12,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)  
 
 ### 🔶 Magma
-  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5
+  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5(Deprecated), 1.18.2, 1.19.3(experimental)
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -21,7 +21,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)  
 
 ### 🏔 Arclight
-  - Version: 1.14-1.18.1
+  - Version: 1.14-1.19.4
   - Author: IzzelAliz
   - Fork: Forge/Bukkit/Spigot --> Arclight
   - Description: A Minecraft Server Forge software implementing Bukkit API using Mixin.
@@ -38,16 +38,8 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge)   
 
-### 😺 CatServer
-  - Version: 1.12.2
-  - Author: Luohuayu
-  - Fork: Forge/Spigot/Paper --> CatServer
-  - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
-  - Link: https://github.com/Luohuayu/CatServer
-  - Plugins: ✔️ (Bukkit, Spigot, Paper) 
-  - Mods: ✔️ (Forge) 
 
-### ☕️ LoliServer
+### ☕️ LoliServer [ABANDONED]
   - Version: 1.16.5
   - Author: Kotori0629 / Luohuayu
   - Fork: Forge/Spigot/Paper --> Mohist --> LoliServer
@@ -113,7 +105,6 @@ This list classifies the software in relation to their compatibility.
 ## 1.12.2
 1. Mohist
 2. Magma
-3. CatServer
 
 ## 1.14
 1. Arclight
@@ -129,4 +120,11 @@ This list classifies the software in relation to their compatibility.
 5. LoliServer
 
 ## 1.18.2
-1. -
+1. Arclight
+2. Magma
+3. Mohist
+
+## 1.19.x
+1.Arclight
+2.Magma
+3.Mohist
