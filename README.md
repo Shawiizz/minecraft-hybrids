@@ -12,7 +12,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)  
 
 ### 🔶 Magma
-  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5(Deprecated), 1.18.2, 1.19.3(experimental)
+  - Version: 1.12.2(Limited Support), 1.15.2 (Deprecated), 1.16.5(Deprecated), 1.18.2, 1.19.3
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -21,7 +21,7 @@ This page is based on [this one](https://github.com/UeberallGebannt/server-softw
   - Mods: ✔️ (Forge)  
 
 ### 🏔 Arclight
-  - Version: 1.14-1.19.4
+  - Version: 1.14-1.20
   - Author: IzzelAliz
   - Fork: Forge/Bukkit/Spigot --> Arclight
   - Description: A Minecraft Server Forge software implementing Bukkit API using Mixin.
