@@ -3,7 +3,7 @@
 This page is based on [this one](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md), made by UeberallGebannt.
 
 ### 🪐 Mohist
-  - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2, 1.19.4 (experimental)
+  - Version: 1.7.10 (deprecated), 1.12.2, 1.16.5, 1.18.2, 1.19.4 (experimental), 1.20.1 (experimental)
   - Author: MohistMC
   - Fork: Forge/Spigot/Paper --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
