@@ -108,7 +108,6 @@ This list classifies the software in relation to their compatibility.
 2. Mohist
 3. Magma
 4. Mist
-5. LoliServer
 
 ## 1.18.2
 1. Arclight
