@@ -128,3 +128,7 @@ This list classifies the software in relation to their compatibility.
 1.Arclight
 2.Magma
 3.Mohist
+
+## 1.20.x
+1.Arclight
+2.Mohist
